@@ -1,0 +1,64 @@
+Interview Questions:
+
+❖ Is there a way to erase all files in the current directory, including all its sub-directories, using 
+only one command?
+ANS: rm -r command  is using for erase all files in the current directory including all its sub-directories.
+
+❖ What is a directory? 
+AND:
+❖ Differentiate relative path from an absolute path.
+❖ Enumerate some of the most commonly used network commands in UNIX
+❖ Differentiate cmp command from diff command.
+❖ What is the use of -l when listing a directory?
+❖ What is piping?
+❖ How do you determine and set the path in UNIX?
+❖ Is it possible to see information about a process while it is being executed?
+❖ Differentiate cat command from more command.
+❖ What is pid?
+❖ How does the system know where one command ends and another begins?
+❖ What is the output of this command? $who | sort –logfile > newfile
+❖ What would be the effect of changing the value of PATH to: .:/usr/della/bin: /bin: /usr/bin
+❖ Write a command that will display files in the current directory, in a colored, long format.
+❖ What does this command do? cat food 1 > kitty
+❖ What is wrong with this interactive shell script?
+❖ Describe the usage and functionality of the command “rm –r *” in UNIX?
+❖ What is the UNIX command to list files/folders in alphabetical order?
+❖ What is the behavioral difference between “cmp” and “diff” commands?
+❖ What are the duties of the following commands: chmod, chown, chgrp?
+❖ What is the command to find today’s date?
+❖ Describe the zip/unzip command using gzip?
+❖ Explain the method of changing file access permission?
+❖ How to display the last line of a file?
+❖ How to Kill a process in UNIX?
+❖ Explain the advantage of executing processes in the background?
+❖ What is the command to find maximum memory taking process on the server?
+❖ What is the command to find hidden files in the current directory?
+❖ What is the command to find the currently running process in Unix Server?
+❖ What is the command to find remaining disk space in the UNIX server?
+❖ What is the UNIX command to make a new directory?
+❖ What is the method to see command line history?
+❖ What is the UNIX command to find how many days the server is up?
+❖ What is the purpose of the “echo” command?
+❖ What is the method to edit a large file without opening it in UNIX?
+❖ What is the process to count the number of characters and lines in a file?
+❖ Write a command to erase all files in the current directory including all its subdirectories.
+❖ What do you understand by command substitution?
+❖ Enlist some commonly used network commands.
+❖ How is cmp command different from diff command?
+❖ Explain the types of pathnames that can be used in UNIX.
+❖ Absolute Pathname: It defines a complete path specifying the location of a file/ directory from 
+the beginning of the actual file system i.e. 
+❖ from the root directory (/
+❖ Absolute pathname addresses system configuration files that do not change location.
+❖ Relative Pathname: It defines the path from the current working directory where the user is i.e. 
+the present working directory (pwd
+❖ Enlist some filename manipulation commands in UNIX.
+❖ Explain the alias mechanism.
+
+❖ What do you know about wildcard interpretation?
+❖ Explain pid.
+❖ What are the possible return values of kill
+❖ What do you know about tee command and its usage?
+❖ Explain mount and unmount command.
+❖ What is the “chmod” command?
+------------------------------------------Thank You--------------------------------------------
