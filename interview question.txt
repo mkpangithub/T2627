@@ -1,4 +1,4 @@
-Interview Questions:
+NEW ONE Interview Questions:
 
 ❖ Is there a way to erase all files in the current directory, including all its sub-directories, using 
 only one command?
